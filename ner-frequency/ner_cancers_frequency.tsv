@@ -1,0 +1,247 @@
+"Var1"	"Freq"
+"1"	"Breast Cancer"	21383
+"2"	"Colorectal Cancer"	9044
+"3"	"Prostate Cancer"	8153
+"4"	"Lung Cancer"	5393
+"5"	"Ovarian Cancer"	3533
+"6"	"Hepatocellular carcinoma"	3245
+"7"	"Colon Cancer"	3139
+"8"	"Liver Cancer"	3130
+"9"	"Pancreatic Cancer"	2789
+"10"	"Leukemia"	2658
+"11"	"Melanoma"	2648
+"12"	"Gastric Cancer"	2360
+"13"	"Non-Small-Cell Lung Carcinoma"	1736
+"14"	"Glioblastoma"	1543
+"15"	"Acute Monocytic Leukemia"	1512
+"16"	"Glioma"	1311
+"17"	"Skin Neoplasms"	1185
+"18"	"Bladder Cancer"	1157
+"19"	"Neuroblastoma"	960
+"20"	"Squamous Cell Carcinoma"	942
+"21"	"Cervical Cancer"	933
+"22"	"Osteosarcoma"	892
+"23"	"Carcinoma"	784
+"24"	"Carcinoma, Pancreatic Ductal"	747
+"25"	"Neoplasm Metastasis"	736
+"26"	"Hereditary Breast and Ovarian Cancer Syndrome"	714
+"27"	"Multiple Myeloma"	644
+"28"	"Kidney (Renal Cell) Cancer"	538
+"29"	"Endometrial Cancer"	472
+"30"	"Acute Myeloid Leukemia"	427
+"31"	"Lymphoma"	384
+"32"	"Thyroid Cancer"	380
+"33"	"Adenocarcinoma"	369
+"34"	"Kidney Tumors"	363
+"35"	"Small cell lung cancer"	358
+"36"	"Fibrosarcoma"	355
+"37"	"Acute T-Lymphocytic Leukemia"	302
+"38"	"Brain Tumor"	278
+"39"	"Retinoblastoma"	256
+"40"	"Head and Neck Cancer"	250
+"41"	"Leukemia Myeloid"	245
+"42"	"Esophageal Cancer"	242
+"43"	"Cholangiocarcinoma"	241
+"44"	"Mouth Cancer"	232
+"45"	"Leukemia, Promyelocytic, Acute"	231
+"46"	"Adenomatous Polyposis Colus"	214
+"47"	"Neoplasm Invasiveness"	213
+"48"	"Sarcoma"	204
+"49"	"Medulloblastoma"	186
+"50"	"Carcinoma, Ehrlich Tumor"	185
+"51"	"Vulvar Cancer"	173
+"52"	"Lewis Lung Carcinoma"	167
+"53"	"Malignant Mesothelioma"	159
+"54"	"Pheochromocytoma"	155
+"55"	"Chronic Lymphocytic Leukemia"	145
+"56"	"Chondrosarcoma"	129
+"57"	"Gastrointestinal Neoplasms"	129
+"58"	"Acute Lymphoblastic Leukemia"	117
+"59"	"Chronic Myelogenous Leukemia"	114
+"60"	"Rhabdomyosarcoma"	112
+"61"	"Tongue Neoplasms"	111
+"62"	"Thyroid Carcinoma, Anaplastic"	108
+"63"	"Ductal Carcinoma"	107
+"64"	"Hematologic Neoplasms"	107
+"65"	"Precancerous Conditions"	95
+"66"	"Ewing Sarcoma"	92
+"67"	"Bone Cancer"	89
+"68"	"Gallbladder Cancer"	87
+"69"	"Kaposi Sarcoma"	84
+"70"	"Choriocarcinoma"	81
+"71"	"Pituitary Tumor"	81
+"72"	"Hepatoblastoma"	77
+"73"	"Lymphoma, Mantle-Cell"	70
+"74"	"Astrocytomas"	68
+"75"	"Intestinal Neoplasms"	68
+"76"	"Leiomyoma"	67
+"77"	"Carcinoma, Adenoid Cystic"	65
+"78"	"Leukemia, Lymphoid"	65
+"79"	"Non-Hodgkin Lymphoma"	64
+"80"	"Leukemia, T-Cell"	58
+"81"	"B-Cell Lymphoma"	57
+"82"	"Gastrointestinal Stromal Tumors"	52
+"83"	"Prostatic Neoplasms, Castration-Resistant"	52
+"84"	"Brain Stem Neoplasms"	49
+"85"	"Lymphoma, T-Cell"	49
+"86"	"Central Nervous System Atypical Teratoid/Rhabdoid Tumor"	43
+"87"	"Urethral Cancer"	43
+"88"	"Biliary Tract Neoplasms"	39
+"89"	"Carcinoma, Small Cell"	39
+"90"	"Leukemia, Erythroblastic, Acute"	38
+"91"	"Laryngeal Cancer"	37
+"92"	"Wilms Tumor"	33
+"93"	"Adenocarcinoma, Bronchiolo-Alveolar"	32
+"94"	"Burkitt Lymphoma"	32
+"95"	"basal cell carcinoma"	31
+"96"	"Nasopharyngeal Cancer"	31
+"97"	"Neuroendocrine Tumor"	31
+"98"	"Neoplasms, Squamous Cell"	30
+"99"	"AIDS-Related Cancers"	29
+"100"	"Peritoneal Neoplasms"	29
+"101"	"Tumor Hypoxia"	29
+"102"	"Hodgkin Lymphoma"	27
+"103"	"Liposarcoma"	27
+"104"	"Carcinoma, Embryonal"	25
+"105"	"Neurologic Manifestations"	25
+"106"	"Lymphoma, Primary Effusion"	24
+"107"	"Smooth Muscle Tumor"	24
+"108"	"Granulosa Cell Tumor"	23
+"109"	"Leiomyosarcoma"	23
+"110"	"Testicular Cancer"	22
+"111"	"Human T-cell leukemia-lymphoma virus"	21
+"112"	"Carcinoma, Mucoepidermoid"	19
+"113"	"Hereditary NonPolyposis Colorectal Cancer"	19
+"114"	"Hypothalamic Neoplasms"	19
+"115"	"Leukemia L1210"	19
+"116"	"Rhabdomyosarcoma, Alveolar"	19
+"117"	"Carcinoid Tumor, Gastrointestinal"	18
+"118"	"Leydig Cell Tumor"	17
+"119"	"Lymphoma, Follicular"	16
+"120"	"Neoplasms, Vascular Tissue"	16
+"121"	"Leukemia, B-Cell"	15
+"122"	"Neural crest tumor"	15
+"123"	"Carcinoma, Ductal"	14
+"124"	"Endocrine Gland Neoplasms"	13
+"125"	"Neuroectodermal Tumors"	13
+"126"	"Carcinosarcoma"	12
+"127"	"Peripheral Nervous System Cancer
+"	12
+"128"	"Sarcoma 180"	12
+"129"	"Carcinoma in Situ"	11
+"130"	"Liposarcoma, Myxoid"	11
+"131"	"Neoplasms, Glandular and Epithelial"	11
+"132"	"Sarcoma, Synovial"	11
+"133"	"Adrenocortical Carcinoma"	10
+"134"	"Central Nervous System Neoplasms"	10
+"135"	"Cutaneous T-Cell Lymphoma"	10
+"136"	"Gliosarcoma"	10
+"137"	"Myelodysplastic Syndromes"	10
+"138"	"Neoplasm Seeding"	10
+"139"	"Neoplasms, Adipose Tissue"	10
+"140"	"Teratocarcinoma"	10
+"141"	"Thymus Neoplasms"	10
+"142"	"Carcinoma, Papillary"	9
+"143"	"Salivary Gland Cancer"	9
+"144"	"Tumor Burden"	9
+"145"	"Ependymoma"	8
+"146"	"Vascular Neoplasms"	8
+"147"	"Acute Megakaryocytic Leukemia"	7
+"148"	"Adenocarcinoma, Mucinous"	7
+"149"	"Bile Duct Cancer"	7
+"150"	"Carcinoma, Islet Cell"	7
+"151"	"Leukemia, Myelomonocytic, Juvenile"	7
+"152"	"Merkel Cell Carcinoma"	7
+"153"	"Neoplasms, Multiple Primary"	7
+"154"	"Neoplasms, Second Primary"	7
+"155"	"Rectal Cancer"	7
+"156"	"Tumor Virus Infections"	7
+"157"	"Giant Cell Tumors"	6
+"158"	"Hypopharyngeal Cancer"	6
+"159"	"Oligodendroglioma"	6
+"160"	"Rhabdomyosarcoma, Embryonal"	6
+"161"	"Trophoblastic Neoplasms"	6
+"162"	"Adrenal Gland Neoplasms"	5
+"163"	"Bone Marrow Neoplasms"	5
+"164"	"Carcinoma, Acinar Cell"	5
+"165"	"Dendritic Cell Sarcoma, Follicular"	5
+"166"	"Dermatofibrosarcoma"	5
+"167"	"Neoplasms, Basal Cell"	5
+"168"	"Retinal Neoplasms"	5
+"169"	"Sigmoid Neoplasms"	5
+"170"	"Splenic Neoplasms"	5
+"171"	"Transitional Cell Carcinoma"	5
+"172"	"Tumor Lysis Syndrome"	5
+"173"	"Carcinoma 256, Walker"	4
+"174"	"Carcinoma, Bronchogenic"	4
+"175"	"Carcinoma, Lobular"	4
+"176"	"Gestational Trophoblastic Tumor"	4
+"177"	"Islet Cell Tumors"	4
+"178"	"Myosarcoma"	4
+"179"	"Nerve Sheath Neoplasms"	4
+"180"	"Nervous System Neoplasms"	4
+"181"	"Carcinoma, Adenosquamous"	3
+"182"	"Carcinoma, Ductal, Breast"	3
+"183"	"Composite Lymphoma"	3
+"184"	"Cystadenocarcinoma, Serous"	3
+"185"	"Desmoplastic Small Round Cell Tumor"	3
+"186"	"Genitourinary"	3
+"187"	"Germ Cell"	3
+"188"	"Histiocytic Sarcoma"	3
+"189"	"Liver Neoplasms, Experimental"	3
+"190"	"Lymphatic Vessel Tumors"	3
+"191"	"Lymphoma, Extranodal NK-T-Cell"	3
+"192"	"Lymphoma, Large B-Cell, Diffuse"	3
+"193"	"Mammary Neoplasms, Animal"	3
+"194"	"Plant Tumors"	3
+"195"	"Sarcoma, Clear Cell"	3
+"196"	"Sarcoma, Small Cell"	3
+"197"	"Abdominal Neoplasms"	2
+"198"	"Bronchial Neoplasms"	2
+"199"	"Carcinoma, Verrucous"	2
+"200"	"Extracranial Germ Cell Tumor"	2
+"201"	"Eye Neoplasms"	2
+"202"	"Hairy Cell Leukemia"	2
+"203"	"Heart Neoplasms"	2
+"204"	"Hemangiosarcoma"	2
+"205"	"Lymphoma, Large-Cell, Anaplastic"	2
+"206"	"Lymphoma, T-Cell, Peripheral"	2
+"207"	"Male Breast Cancer"	2
+"208"	"Muscle Neoplasms"	2
+"209"	"Neoplasms, Hormone-Dependent"	2
+"210"	"Neurofibrosarcoma"	2
+"211"	"Thymoma"	2
+"212"	"Uterine Sarcoma"	2
+"213"	"Acute Biphenotypic Leukemia"	1
+"214"	"Adenocarcinoma, Follicular"	1
+"215"	"Adrenal Cortex Neoplasms"	1
+"216"	"Carcinoma, Krebs 2"	1
+"217"	"Carcinoma, Large Cell"	1
+"218"	"Choriocarcinoma, Non-gestational"	1
+"219"	"Endocrine and Neuroendocrine"	1
+"220"	"Gastrinoma"	1
+"221"	"Gynecologic"	1
+"222"	"Ileal Neoplasms"	1
+"223"	"Inflammatory Breast Neoplasms"	1
+"224"	"Intraocular Lymphoma"	1
+"225"	"Jejunal Neoplasms"	1
+"226"	"Leukemia, Basophilic, Acute"	1
+"227"	"Leukemia, Experimental"	1
+"228"	"Leukemia, Mast-Cell"	1
+"229"	"Meningeal Carcinomatosis"	1
+"230"	"Meningeal Neoplasms"	1
+"231"	"Multiple Endocrine Neoplasia Type 2a"	1
+"232"	"Musculoskeletal diseases"	1
+"233"	"Neoplasms, Plasma Cell"	1
+"234"	"Neuroectodermal Tumors, Primitive"	1
+"235"	"Peripheral Nervous System Cancer"	1
+"236"	"Perivascular Epithelioid Cell Neoplasms"	1
+"237"	"Precursor B-Cell Lymphoblastic Leukemia-Lymphoma"	1
+"238"	"Sarcoma, Avian"	1
+"239"	"Soft Tissue Neoplasms"	1
+"240"	"Solitary Fibrous Tumor, Pleural"	1
+"241"	"Sweat Gland Neoplasms"	1
+"242"	"T-Cell Prolymphocytic Leukemia"	1
+"243"	"Testicular Germ Cell Tumor"	1
+"244"	"Triple Negative Breast Neoplasms"	1
+"245"	"Urologic Neoplasms"	1
