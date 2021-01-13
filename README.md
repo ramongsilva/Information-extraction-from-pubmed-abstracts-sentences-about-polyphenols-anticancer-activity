@@ -1,6 +1,6 @@
 <h1>Information extraction from pubmed abstracts sentences about polyphenols anticancer activity</h1>
 
-<p>This repository contains all files used in the task of information extraction in pubmed abstracts sentences about the anti-cancer activity of polyphenols, using the R language.  The files are organized in the tasks of: NER (Named entity recognition) and AR (Association recognition).</p>
+<p>This repository contains all files used in the task of information extraction in pubmed abstracts sentences about the anti-cancer activity of polyphenols, using the R language.  The files are organized in the tasks of: NER (Named entity recognition), AR (Association recognition) and Results.</p>
 
 <h2>NER (Named entity recognition)</h2>
 <ul>
