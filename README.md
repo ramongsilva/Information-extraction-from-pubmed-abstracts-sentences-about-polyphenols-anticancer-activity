@@ -1,6 +1,6 @@
-<h1>Information extraction from pubmed abstracts sentences about polyphenols anticancer activity</h1>
+<h1>Information extraction from pubmed abstracts sentences on polyphenols anticancer activity</h1>
 
-<p>This repository contains files and information about the step 2 of Kaphta Architecture: Information Extraction. In this stage, PubMed abstracts classified as positive in the previous stage (<a href='https://github.com/ramongsilva/Text-classification-of-pubmed-abstracts-on-polyphenols-anticancer-activity'>Text Classification step</a>) were used to extract information. Information was extracted from sentences of PubMed abstracts with associations of recognized entities. The following are the files used in the tasks of: NER (Named entity recognition), AR (Association recognition) and your respective results:</p>
+<p>This repository contains files and information about the<strong> step 2 of Kaphta Architecture: Information Extraction</strong>. In this stage, PubMed abstracts classified as positive in the previous stage (<a href='https://github.com/ramongsilva/Text-classification-of-pubmed-abstracts-on-polyphenols-anticancer-activity'>Text Classification step</a>) were used to extract information. Information was extracted from sentences of PubMed abstracts with associations of recognized entities. The following are the files used in the tasks of: NER (Named entity recognition), AR (Association recognition) and your respective results:</p>
 
 <h2>NER (Named entity recognition)</h2>
 <ul>
