@@ -5,8 +5,8 @@
 <h2>NER (Named entity recognition)</h2>
 <ul>
   <li><a href='https://github.com/ramongsilva/Information-extraction-from-pubmed-abstracts-sentences-about-polyphenols-anticancer-activity/blob/main/ner-pubmed-abstracts-gh.R'>ner-pubmed-abstracts-gh.R</a>: R script for named entity recognition (NER) in pubmed abstracts about polyphenols anticancer activity, using PubTator API</li>
-  <li><a href='https://github.com/ramongsilva/Information-extraction-from-pubmed-abstracts-sentences-about-polyphenols-anticancer-activity/blob/main/functions.R'>functions.R</a>: R script with auxiliar functions.</li>
-   <li><a href='https://drive.google.com/file/d/1ZxQOrWO0SXXDvnnz4yIwlIhWNvw_uDVH/view'>db_total_project.db</a>:  SQLite Database needed to use the ner-pubmed-abstracts-gh.R script</li>
+  <li><a href='https://github.com/ramongsilva/Information-extraction-from-pubmed-abstracts-sentences-about-polyphenols-anticancer-activity/blob/main/functions.R'>functions.R</a>: R script with auxiliar functions. Save this file in the same folder of ner-pubmed-abstracts-gh.R and association-recognition-pubmed-abstracts-gh.R scripts, because it is needed to execute these scripts.</li>
+<li><a href='https://drive.google.com/file/d/1lQRdff2YpagowcLcdVSF5z2AO5tdwOIS/view?usp=sharing' target='_blank'>db_total_project.db</a>:  SQLite Database needed to execute all R scripts of kaphta architecture steps. This database contains tables with the<strong> Entity dictionary, Total PubMed abstracts textual corpus, and Pubmed abstracts classified as positive in text classification</strong>. Save this file in the same folder of ner-pubmed-abstracts-gh.R and association-recognition-pubmed-abstracts-gh.R scripts, because it is needed to execute these scripts.</li>
 </ul>
 
 <h2>AR (Association recognition)</h2>
