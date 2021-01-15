@@ -24,7 +24,7 @@
 </ul>
 
 <h2>Result of AR task</h2>
-<p>Bellow is presented a table with the results of Association Recognition task, separeted for category, rules and sentence type (PC, PG, P, C, G).</p>
+<p>Bellow is presented a table with the results of Association Recognition task, separeted for category, rules and sentence type (PC, PG, and P).</p>
 <h3>Table with the total of recognized sentences associations for the different sentence type</h3>
 <img src="images/Table-with-association-recognition-result.jpg">
 
