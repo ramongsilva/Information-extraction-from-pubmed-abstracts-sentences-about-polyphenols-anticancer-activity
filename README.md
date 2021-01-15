@@ -11,7 +11,8 @@
 
 <h2>AR (Association recognition)</h2>
 <ul>
-  <li><a href='https://github.com/ramongsilva/Information-extraction-from-pubmed-abstracts-sentences-about-polyphenols-anticancer-activity/blob/main/association-recognition-pubmed-abstracts-gh.R'>association-recognition-pubmed-abstracts-gh.R</a>: R script for association recognition (AR) in pubmed abstracts sentences about polyphenols anticancer activity, using regular expressions from rules dictionary (see <a href='https://github.com/ramongsilva/sequential-pattern-mining-in-pubmed-abstracts-sentences'>sequential-pattern-mining-in-pubmed-abstracts-sentences</a> repository).</li>
+  <li><a href='https://github.com/ramongsilva/Information-extraction-from-pubmed-abstracts-sentences-about-polyphenols-anticancer-activity/blob/main/association-recognition-pubmed-abstracts-gh.R'>association-recognition-pubmed-abstracts-gh.R</a>: R script for association recognition (AR) in pubmed abstracts sentences about polyphenols anticancer activity, using regular expressions from rules dictionary (see <a href='https://github.com/ramongsilva/sequential-pattern-mining-in-pubmed-abstracts-sentences'>sequential-pattern-mining-in-pubmed-abstracts-sentences</a> repository). 
+    <ul><li>For execute this R script it's necessary to download the <a href='https://github.com/ramongsilva/Information-extraction-from-pubmed-abstracts-sentences-on-polyphenols-anticancer-activity/tree/main/entities-associations-sentences-recognized'>entities-associations-sentences-recognized</a> and <a href="https://github.com/ramongsilva/Information-extraction-from-pubmed-abstracts-sentences-on-polyphenols-anticancer-activity/tree/main/entities-recognized">entities-recognized</a> folders.</li></ul></li>
  </ul>
 
 <h2>Results</h2>
