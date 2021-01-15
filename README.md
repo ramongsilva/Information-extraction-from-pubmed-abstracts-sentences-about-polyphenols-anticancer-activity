@@ -23,5 +23,9 @@
     <li><a href='https://github.com/ramongsilva/Information-extraction-from-pubmed-abstracts-sentences-about-polyphenols-anticancer-activity/blob/main/Rule_associations_recognized.rar'>Rule_associations_recognized.rar</a>: compacted file resulted of AR task containing the PubMed abstract sentences with at least one rule from rules dictionary recognized.</li>
 </ul>
 
+<h2>Resul of AR task</h2>
+<p>Bellow is presented a table with the results of Association Recognition task, separeted for category, rules and sentence type (PC, PG, P, C, G).</p>
+<h3>Table with the total of recognized sentences associations for the different sentence type</h3>
+
 
 
