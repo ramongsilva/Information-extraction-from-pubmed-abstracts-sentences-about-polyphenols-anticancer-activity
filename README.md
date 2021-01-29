@@ -25,7 +25,7 @@
 </ul>
 
 <h2>Result of AR task</h2>
-<p>Bellow is presented a table with the results of the Association Recognition task, separated for category, rules and sentence type (PC, PG, and P).</p>
+<p>Below is presented a table with the results of the Association Recognition task, separated for category, rules and sentence type (PC, PG, and P).</p>
 <h3>Table with the total of the recognized sentences associations for the different sentence type</h3>
 <img src="images/Table-with-association-recognition-result.jpg">
 
